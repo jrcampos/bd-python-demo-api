@@ -7,7 +7,7 @@ The main purpose of this repository is to provide examples on how to do the init
 The system must be made available through a REST API that allows the user to access the system using HTTP requests (when content is required, JSON must be used). The followingfigure represents a simplified view of the system to be developed. As it is possible to see, the user interacts with the web server through the exchange of REST request/response and in turn the web server interacts with the database server through an SQL interface (e.g., Psycopg in the case of Python).
 
 <p align="center">
-  <img src="rest_api.png" />
+  <img src="rest_api-v1.png" />
 </p>
 
 _The contents of this repository do not replace the proper reading of the assignment description._

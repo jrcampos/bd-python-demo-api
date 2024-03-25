@@ -1,6 +1,6 @@
 # Databases - Practical Assignment
 
-The code and resources available in this repository are to be used only within the scope of the _BD 2023_ course of the Bachelor in Informatics Engineering.
+The code and resources available in this repository are to be used only within the scope of the _BD 2024_ course of the Bachelor in Informatics Engineering.
 
 The main purpose of this repository is to provide examples on how to do the initial setup of the database-centric REST API that must be developed for the assignment.
 

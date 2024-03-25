@@ -1,7 +1,7 @@
 ##
 ## =============================================
 ## ============== Bases de Dados ===============
-## ============== LEI  2022/2023 ===============
+## ============== LEI  2023/2024 ===============
 ## =============================================
 ## =================== Demo ====================
 ## =============================================
@@ -13,7 +13,6 @@
 ## Authors:
 ##   João R. Campos <jrcampos@dei.uc.pt>
 ##   Nuno Antunes <nmsa@dei.uc.pt>
-##   BD 2022 Team - https://dei.uc.pt/lei/
 ##   University of Coimbra
 
 
@@ -61,7 +60,7 @@ def landing_page():
     <br/>
     Check the sources for instructions on how to use the endpoints!<br/>
     <br/>
-    BD 2022 Team<br/>
+    BD 2023-2024 Team<br/>
     <br/>
     """
 

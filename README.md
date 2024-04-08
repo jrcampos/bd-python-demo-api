@@ -42,8 +42,8 @@ The REST API must be developed to fulfil the functionalities/endpoints required 
 To execute this project it is required to have installed:
 
 - `python 3.X`
-  - `psycopg2` (conda install psycopg2-binary)
-  - `flask` (conda install flask)
+  - `psycopg2` (**conda install psycopg2-binary**)
+  - `flask` (**conda install flask**)
 
 ## Support
 

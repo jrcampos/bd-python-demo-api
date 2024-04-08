@@ -52,5 +52,5 @@ If you find an issue or have questions regarding the demo feel free to contact m
 
 ## Authors
 
-* BD 2023 Team - https://dei.uc.pt/lei/
+* BD 2023/2024 Team - https://dei.uc.pt/lei/
 * University of Coimbra

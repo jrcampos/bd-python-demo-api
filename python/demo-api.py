@@ -154,7 +154,7 @@ def get_department(ndep):
 ##
 ## To use it, you need to use postman or curl:
 ##
-## curl -X POST http://localhost:8080/departments/ -H 'Content-Type: application/json' -d '{'localidade': 'Polo II', 'ndep': 69, 'nome': 'Seguranca'}'
+## curl -X POST http://localhost:8080/departments/ -H 'Content-Type: application/json' -d '{'localidade': 'Polo II', 'ndep': 100, 'nome': 'Seguranca'}'
 ##
 
 @app.route('/departments/', methods=['POST'])
@@ -204,7 +204,7 @@ def add_departments():
 ##
 ## To use it, you need to use postman or curl:
 ##
-## curl -X PUT http://localhost:8080/departments/ -H 'Content-Type: application/json' -d '{'ndep': 69, 'localidade': 'Porto'}'
+## curl -X PUT http://localhost:8080/departments/ -H 'Content-Type: application/json' -d '{'ndep': 100, 'localidade': 'Porto'}'
 ##
 
 @app.route('/departments/<ndep>', methods=['PUT'])

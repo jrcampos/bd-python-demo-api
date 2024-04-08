@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "edd5bb9a-4754-4095-94fa-0c9a591d9fc4",
+		"_postman_id": "a1ba73a0-7608-44a1-8fb5-94ead4c6ad87",
 		"name": "BD_demo",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "1332295"
@@ -90,7 +90,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/departments/69",
+					"raw": "http://localhost:8080/departments/100",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -98,7 +98,7 @@
 					"port": "8080",
 					"path": [
 						"departments",
-						"69"
+						"100"
 					]
 				}
 			},

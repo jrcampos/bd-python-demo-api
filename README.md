@@ -44,6 +44,7 @@ To execute this project it is required to have installed:
 - `python 3.X`
   - `psycopg2` (**conda install psycopg2-binary**)
   - `flask` (**conda install flask**)
+  - `jwt` (**pip install pyjwt**)
 
 ## Support
 
@@ -52,5 +53,5 @@ If you find an issue or have questions regarding the demo feel free to contact m
 
 ## Authors
 
-* BD 2023/2024 Team - https://dei.uc.pt/lei/
+* BD 2025/2026 Team - https://dei.uc.pt/lei/
 * University of Coimbra

@@ -60,7 +60,7 @@ def landing_page():
     <br/>
     Check the sources for instructions on how to use the endpoints!<br/>
     <br/>
-    BD 2023-2024 Team<br/>
+    BD 2025-2026 Team<br/>
     <br/>
     """
 
